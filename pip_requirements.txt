@@ -1,8 +1,6 @@
 mysqlclient
 python-memcached
 stripe
-django-reversion
-django-guardian
 boto3
 django-storages
 coreapi
