@@ -10,3 +10,6 @@ RUN apt-get install -y apache2 libapache2-mod-wsgi ntp mysql-client libmysqlclie
 RUN mkdir /code/
 # numpy is required during the installation of rasterio (which is unconventional and annoying.)
 RUN pip install numpy uwsgi
+
+COPY pip_requirements.txt /zsy2XXMCnaF7LMfmDGz7z7vB_requirements.txt
+RUN pip install -r zsy2XXMCnaF7LMfmDGz7z7vB_requirements.txt
