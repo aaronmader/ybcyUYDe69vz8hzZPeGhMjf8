@@ -2,6 +2,7 @@ mysqlclient
 python-memcached
 stripe
 boto3
+Django==1.11
 django-storages
 coreapi
 markdown
