@@ -18,4 +18,3 @@ mapbox
 numpy
 rasterio
 reportlab
-pypdf2
