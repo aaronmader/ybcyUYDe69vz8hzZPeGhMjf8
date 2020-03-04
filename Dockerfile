@@ -33,6 +33,15 @@ RUN apt-get update && apt-get install -y wget --no-install-recommends \
 ############################
 
 
+# RUN apt-get update
+# RUN apt-get install -y xvfb
+# RUN apt-get install -y xfonts-75dpi
+# # RUN apt-get install -y wkhtmltopdf
+# RUN wget https://downloads.wkhtmltopdf.org/0.12/0.12.5/wkhtmltox_0.12.5-1.xenial_amd64.deb \
+#     && dpkg -i wkhtmltox_0.12.5-1.xenial_amd64.deb \
+#     && apt-get install -f
+
+
 # Install prince
 RUN apt-get update \
     && apt-get install -y libcurl3
