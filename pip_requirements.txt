@@ -35,7 +35,7 @@ django-ratelimit==1.1.0
 django-reversion==2.0.13
 django-simple-captcha==0.5.9
 django-storages==1.6.6
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 docker==3.4.1
 docker-compose==1.21.2
 docker-pycreds==0.3.0
