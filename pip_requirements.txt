@@ -82,7 +82,7 @@ python-dateutil==2.7.3
 python-memcached==1.59
 python-openid==2.2.5
 pytz==2018.5
-PyYAML==3.12
+PyYAML==5.1
 rasterio==1.0.13
 raven==6.9.0
 reportlab==3.5.28
