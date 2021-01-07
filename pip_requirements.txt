@@ -59,7 +59,7 @@ jdcal==1.4
 Jinja2==2.10.3
 jmespath==0.9.3
 jsonschema==2.6.0
-lxml==4.2.3
+lxml==4.6.2
 mapbox==0.16.2
 Markdown==2.6.11
 MarkupSafe==1.0
