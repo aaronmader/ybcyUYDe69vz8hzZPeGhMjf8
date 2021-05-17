@@ -49,7 +49,7 @@ Pillow==7.2.0
 python-dateutil==2.7.3
 python-memcached==1.59
 pytz==2018.5
-PyYAML==5.3
+PyYAML==5.4
 raven==6.9.0
 reportlab==3.5.28
 requests==2.23.0
