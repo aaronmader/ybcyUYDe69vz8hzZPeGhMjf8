@@ -42,7 +42,7 @@ mysqlclient==1.3.13
 newrelic==3.2.2.94
 oauthlib==2.1.0
 openpyxl==2.5.4
-Pillow==7.2.0
+Pillow==8.2.0
 #PyPDF2==1.26.0
 # pypi is out of date so we need to pull from github directly
 -e git+https://github.com/mstamy2/PyPDF2.git@18a2627adac13124d4122c8b92aaa863ccfb8c29#egg=PyPDF2
